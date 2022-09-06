@@ -1,5 +1,5 @@
 const initialState = {
-    users: [],
+    user: {},
 }
 
 export function userReducer(state = initialState, action) {
@@ -7,7 +7,7 @@ export function userReducer(state = initialState, action) {
         case "GET-ALL-USERS": {
             return {
                 ...state,
-                users : action.payload
+                user : action.payload
             }
         }
 
