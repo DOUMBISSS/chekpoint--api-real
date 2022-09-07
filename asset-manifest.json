@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DOUMBISSS/chekpoint--api-real.git/static/css/main.9b686d80.css",
+    "main.js": "/DOUMBISSS/chekpoint--api-real.git/static/js/main.c810a0fd.js",
+    "static/js/787.e026cf38.chunk.js": "/DOUMBISSS/chekpoint--api-real.git/static/js/787.e026cf38.chunk.js",
+    "index.html": "/DOUMBISSS/chekpoint--api-real.git/index.html",
+    "main.9b686d80.css.map": "/DOUMBISSS/chekpoint--api-real.git/static/css/main.9b686d80.css.map",
+    "main.c810a0fd.js.map": "/DOUMBISSS/chekpoint--api-real.git/static/js/main.c810a0fd.js.map",
+    "787.e026cf38.chunk.js.map": "/DOUMBISSS/chekpoint--api-real.git/static/js/787.e026cf38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b686d80.css",
+    "static/js/main.c810a0fd.js"
+  ]
+}
