@@ -105,4 +105,37 @@ h1{
   color: #fff;
 }
 
+@media only screen and (max-width:560px) {
+  .container--box{
+    width: 80%;
+    height: 100%;
+  }
+  input{
+    width: 150px;
+  } 
+  .content{
+    flex-direction: column;
+  }
+  .content--right{
+    width: 60%;
+    height: 100%;
+  }
+  .content--right--box--one{
+    height: 40%;
+    text-align: center; 
+  }
+  .content--right--box--two{
+    height: 60%;
+  }
+  .items{
+    display: block;
+    text-align: center;
+  }
+  .content--left{
+    width: 100%;
+    height: 60%;
+  }
+  
+}
+
 
